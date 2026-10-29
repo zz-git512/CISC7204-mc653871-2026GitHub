@@ -1,0 +1,1 @@
+print("It is hot today")
