@@ -13,3 +13,6 @@ desktop.ini
 # 打包副本（仓库内已有对应的 .ipynb / .py / 截图散文件）
 # 如需一并上传压缩包，删除下面这一行即可
 *.zip
+
+# 超大公开数据集，不入库
+world_cities_pop.csv
